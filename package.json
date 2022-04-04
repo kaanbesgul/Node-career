@@ -1,0 +1,20 @@
+{
+  "name": "Node-career",
+  "version": "1.0.0",
+  "description": "My works while studying Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaanbesgul/Node-career.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaanbesgul/Node-career/issues"
+  },
+  "homepage": "https://github.com/kaanbesgul/Node-career#readme"
+}
