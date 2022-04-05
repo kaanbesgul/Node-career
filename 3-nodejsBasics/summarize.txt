@@ -1,0 +1,10 @@
+In this chapter i understand how to web works
+
+i studying at program lifecycle and event loop but i need to
+go over it a few more times for get it clear.
+
+Also callbacks i need to go over it few times
+
+I think i understand well to requests and responses,chunks to data and buffer it
+
+
