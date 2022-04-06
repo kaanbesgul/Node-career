@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/kaanbesgul/Node-career/issues"
   },
-  "homepage": "https://github.com/kaanbesgul/Node-career#readme"
+  "homepage": "https://github.com/kaanbesgul/Node-career#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3"
+  }
 }

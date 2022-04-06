@@ -1,0 +1,2 @@
+In this chapter i learn what is express.js,nodemon and body-parser
+i learn path,routing in nodejs and how to define path for statical file and serving html file in nodejs
